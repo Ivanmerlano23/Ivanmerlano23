@@ -15,7 +15,7 @@
 - 💻 Software Development
 - 📫 icsgamesxd@gmail.com
 - 🚀 [Iván Merlano - Youtube](https://www.youtube.com/@ivanmerlano887)
-- 🌐 [Iván Merlamo - Linkedln](https://www.linkedin.com/in/iv%C3%A1n-felipe-merlano-vergara-a53b05254)
+- 🌐 [Iván Merlamo - Linkedin](https://www.linkedin.com/in/iv%C3%A1n-felipe-merlano-vergara-a53b05254)
 
 <div id="tools" align="left">
     <h3>🔨 Languages and Tools :</h3>
