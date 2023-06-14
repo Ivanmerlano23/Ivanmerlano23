@@ -29,8 +29,12 @@
     </div>
 </div>
 
----
+--- 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivanmerlano23&theme=onedark&locale=es)](https://git.io/streak-stats)
+### 📊 My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivanmerlano23&theme=onedark)](https://git.io/streak-stats)
 
 ![Ivanmerlano23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanmerlano23&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanmerlano23&layout=compact)
