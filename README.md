@@ -23,5 +23,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40">&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40">&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="ORACLE" alt="ORACLE" width="40" height="40">&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40">&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40">&nbsp
     </div>
 </div>
