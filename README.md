@@ -1,20 +1,24 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200">
-    <h1 align="center">Hola 👋, Soy Iván Merlano</h1>
-    <h3 align="center">Estudiante de Ingeniería de Sistemas, actualmente voy para 6to semestre, he adquirido habilidades y conocimientos para el campo de la programación, desarrollo de software.</h3>
+    <h1 align="center">Hi 👋, I'm Iván Merlano</h1>
+    <h3 align="center">Systems Engineering student, currently going for 6th semester, acquired skills and knowledge for the field of programming, software development.</h3>
 </div>
 
----
+<!-- <div id="badges" align="center">
+    <a href="">
+        <img src="" alt="">
+    </a>
+</div> -->
 
-### 👨‍💻 Acerca de mí :
-- 📝 Ingeniería de Sistemas
-- 💻 Desarrollo de software
+### 👨‍💻 About Me :
+- 📝 Systems Engineering
+- 💻 Software Development
 - 📫 icsgamesxd@gmail.com
 - 🚀 [Iván Merlano - Youtube](https://www.youtube.com/@ivanmerlano887)
 - 🌐 [Iván Merlamo - Linkedln](https://www.linkedin.com/in/iv%C3%A1n-felipe-merlano-vergara-a53b05254)
 
 <div id="tools" align="left">
-    <h3>🔨 Lenguajes de Programación, Frameworks y Herramientas:</h3>
+    <h3>🔨 Languages and Tools :</h3>
     <div id="icons">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40">&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp
@@ -37,7 +41,5 @@
 
 ![Ivanmerlano23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanmerlano23&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanmerlano23&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanmerlano23&layout=compact)
 
