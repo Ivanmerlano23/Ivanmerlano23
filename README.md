@@ -37,7 +37,7 @@
 
 ![Ivanmerlano23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanmerlano23&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanmerlano23&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
