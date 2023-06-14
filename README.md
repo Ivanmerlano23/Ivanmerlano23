@@ -28,3 +28,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40">&nbsp
     </div>
 </div>
+
+--- 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivanmerlano23&theme=onedark&locale=es)](https://git.io/streak-stats)
