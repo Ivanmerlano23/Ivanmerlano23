@@ -10,5 +10,5 @@
 - 📝 Ingeniería de Sistemas
 - 💻 Desarrollo de software
 - 📫 icsgamesxd@gmail.com
-- 🚀 (Iván Merlano - Youtube)[https://www.youtube.com/@ivanmerlano887]
-- 🌐 (Iván Merlamo - Linkedln)[https://www.linkedin.com/in/iv%C3%A1n-felipe-merlano-vergara-a53b05254]
+- 🚀 [Iván Merlano - Youtube](https://www.youtube.com/@ivanmerlano887)
+- 🌐 [Iván Merlamo - Linkedln](https://www.linkedin.com/in/iv%C3%A1n-felipe-merlano-vergara-a53b05254)
