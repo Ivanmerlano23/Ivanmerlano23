@@ -3,6 +3,9 @@
     <h1 align="center">Hola 👋, Soy Iván Merlano</h1>
     <h3 align="center">Estudiante de Ingenieria de Sistemas, actualmente voy para 6to semestre, he adquirido habilidades y conocimientos para el campo de la programación, desarrollo de software.</h3>
 </div>
+
+---
+
 ### 👨‍💻 Acerca de mí :
 - 📝 Ingeniería de Sistemas
 - 💻 Desarrollo de software
