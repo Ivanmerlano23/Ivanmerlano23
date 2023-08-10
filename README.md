@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I'm Iván Merlano</h1>
-    <h3 align="center">Systems Engineering student, currently going for 6th semester, acquired skills and knowledge for the field of programming, software development.</h3>
+    <h3 align="center">I'm a systems engineering student with an innate passion for software development. My goal is to become a highly competent developer and contribute to innovative projects that challenge my technical skills and allow me to grow professionally.</h3>
 </div>
 
 <!-- <div id="badges" align="center">
